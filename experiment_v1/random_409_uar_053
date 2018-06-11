@@ -1,0 +1,21 @@
+svm
+Best: 0.631758179462 using {'kernel': 'rbf', 'C': 100, 'gamma': 1e-05}
+
+             precision    recall  f1-score   support
+
+  remission       0.54      0.33      0.41        21
+  hypomania       0.60      0.62      0.61        24
+      mania       0.46      0.62      0.53        21
+
+avg / total       0.54      0.53      0.52        66
+
+Best: 0.540825 using {'learn_rate': 0.01, 'dropout_rate': 0.6, 'batch_size': 20, 'epochs': 50, 'neurons': 300, 'momentum': 0.0}
+nn
+             precision    recall  f1-score   support
+
+  remission       0.52      0.57      0.55        21
+  hypomania       0.52      0.46      0.49        24
+      mania       0.55      0.57      0.56        21
+
+avg / total       0.53      0.53      0.53        66
+
