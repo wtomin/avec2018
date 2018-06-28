@@ -1,0 +1,2920 @@
+feature type head; time interval: 5
+Female
+################################################################################
+Ridge Classifier
+average recall:   0.500
+Perceptron
+average recall:   0.409
+Passive-Aggressive
+average recall:   0.364
+L2 penalty LinearSVC
+average recall:   0.409
+L2 penalty SGDClassifier
+average recall:   0.455
+L1 penalty LinearSVC
+average recall:   0.409
+L1 penalty SGDClassifier
+average recall:   0.409
+Elastic-Net penalty SGDClassifier
+average recall:   0.364
+NearestCentroid
+average recall:   0.364
+Naive Bayes
+average recall:   0.455
+LinearSVC with L1-based feature selection
+average recall:   0.409
+Male
+################################################################################
+Ridge Classifier
+average recall:   0.421
+Perceptron
+average recall:   0.289
+Passive-Aggressive
+average recall:   0.553
+L2 penalty LinearSVC
+average recall:   0.500
+L2 penalty SGDClassifier
+average recall:   0.395
+L1 penalty LinearSVC
+average recall:   0.500
+L1 penalty SGDClassifier
+average recall:   0.342
+Elastic-Net penalty SGDClassifier
+average recall:   0.395
+NearestCentroid
+average recall:   0.474
+Naive Bayes
+average recall:   0.474
+LinearSVC with L1-based feature selection
+average recall:   0.500
+All gender
+################################################################################
+Ridge Classifier
+average recall:   0.500
+Perceptron
+average recall:   0.350
+Passive-Aggressive
+average recall:   0.450
+L2 penalty LinearSVC
+average recall:   0.450
+L2 penalty SGDClassifier
+average recall:   0.383
+L1 penalty LinearSVC
+average recall:   0.450
+L1 penalty SGDClassifier
+average recall:   0.417
+Elastic-Net penalty SGDClassifier
+average recall:   0.383
+NearestCentroid
+average recall:   0.467
+Naive Bayes
+average recall:   0.433
+LinearSVC with L1-based feature selection
+average recall:   0.467
+feature type head; time interval: 10
+Female
+################################################################################
+Ridge Classifier
+average recall:   0.455
+Perceptron
+average recall:   0.455
+Passive-Aggressive
+average recall:   0.409
+L2 penalty LinearSVC
+average recall:   0.409
+L2 penalty SGDClassifier
+average recall:   0.409
+L1 penalty LinearSVC
+average recall:   0.364
+L1 penalty SGDClassifier
+average recall:   0.455
+Elastic-Net penalty SGDClassifier
+average recall:   0.455
+NearestCentroid
+average recall:   0.409
+Naive Bayes
+average recall:   0.455
+LinearSVC with L1-based feature selection
+average recall:   0.409
+Male
+################################################################################
+Ridge Classifier
+average recall:   0.395
+Perceptron
+average recall:   0.395
+Passive-Aggressive
+average recall:   0.447
+L2 penalty LinearSVC
+average recall:   0.421
+L2 penalty SGDClassifier
+average recall:   0.421
+L1 penalty LinearSVC
+average recall:   0.421
+L1 penalty SGDClassifier
+average recall:   0.421
+Elastic-Net penalty SGDClassifier
+average recall:   0.421
+NearestCentroid
+average recall:   0.474
+Naive Bayes
+average recall:   0.500
+LinearSVC with L1-based feature selection
+average recall:   0.421
+All gender
+################################################################################
+Ridge Classifier
+average recall:   0.500
+Perceptron
+average recall:   0.417
+Passive-Aggressive
+average recall:   0.450
+L2 penalty LinearSVC
+average recall:   0.467
+L2 penalty SGDClassifier
+average recall:   0.433
+L1 penalty LinearSVC
+average recall:   0.467
+L1 penalty SGDClassifier
+average recall:   0.433
+Elastic-Net penalty SGDClassifier
+average recall:   0.450
+NearestCentroid
+average recall:   0.450
+Naive Bayes
+average recall:   0.433
+LinearSVC with L1-based feature selection
+average recall:   0.450
+feature type head; time interval: 20
+Female
+################################################################################
+Ridge Classifier
+average recall:   0.591
+Perceptron
+average recall:   0.409
+Passive-Aggressive
+average recall:   0.409
+L2 penalty LinearSVC
+average recall:   0.455
+L2 penalty SGDClassifier
+average recall:   0.409
+L1 penalty LinearSVC
+average recall:   0.409
+L1 penalty SGDClassifier
+average recall:   0.455
+Elastic-Net penalty SGDClassifier
+average recall:   0.409
+NearestCentroid
+average recall:   0.409
+Naive Bayes
+average recall:   0.455
+LinearSVC with L1-based feature selection
+average recall:   0.455
+Male
+################################################################################
+Ridge Classifier
+average recall:   0.395
+Perceptron
+average recall:   0.395
+Passive-Aggressive
+average recall:   0.447
+L2 penalty LinearSVC
+average recall:   0.368
+L2 penalty SGDClassifier
+average recall:   0.421
+L1 penalty LinearSVC
+average recall:   0.421
+L1 penalty SGDClassifier
+average recall:   0.421
+Elastic-Net penalty SGDClassifier
+average recall:   0.395
+NearestCentroid
+average recall:   0.500
+Naive Bayes
+average recall:   0.500
+LinearSVC with L1-based feature selection
+average recall:   0.368
+All gender
+################################################################################
+Ridge Classifier
+average recall:   0.533
+Perceptron
+average recall:   0.433
+Passive-Aggressive
+average recall:   0.433
+L2 penalty LinearSVC
+average recall:   0.500
+L2 penalty SGDClassifier
+average recall:   0.550
+L1 penalty LinearSVC
+average recall:   0.500
+L1 penalty SGDClassifier
+average recall:   0.433
+Elastic-Net penalty SGDClassifier
+average recall:   0.517
+NearestCentroid
+average recall:   0.433
+Naive Bayes
+average recall:   0.417
+LinearSVC with L1-based feature selection
+average recall:   0.500
+feature type head; time interval: 30
+Female
+################################################################################
+Ridge Classifier
+average recall:   0.500
+Perceptron
+average recall:   0.409
+Passive-Aggressive
+average recall:   0.455
+L2 penalty LinearSVC
+average recall:   0.455
+L2 penalty SGDClassifier
+average recall:   0.409
+L1 penalty LinearSVC
+average recall:   0.409
+L1 penalty SGDClassifier
+average recall:   0.409
+Elastic-Net penalty SGDClassifier
+average recall:   0.409
+NearestCentroid
+average recall:   0.364
+Naive Bayes
+average recall:   0.500
+LinearSVC with L1-based feature selection
+average recall:   0.455
+Male
+################################################################################
+Ridge Classifier
+average recall:   0.395
+Perceptron
+average recall:   0.474
+Passive-Aggressive
+average recall:   0.395
+L2 penalty LinearSVC
+average recall:   0.395
+L2 penalty SGDClassifier
+average recall:   0.421
+L1 penalty LinearSVC
+average recall:   0.421
+L1 penalty SGDClassifier
+average recall:   0.447
+Elastic-Net penalty SGDClassifier
+average recall:   0.421
+NearestCentroid
+average recall:   0.500
+Naive Bayes
+average recall:   0.474
+LinearSVC with L1-based feature selection
+average recall:   0.395
+All gender
+################################################################################
+Ridge Classifier
+average recall:   0.483
+Perceptron
+average recall:   0.367
+Passive-Aggressive
+average recall:   0.400
+L2 penalty LinearSVC
+average recall:   0.417
+L2 penalty SGDClassifier
+average recall:   0.450
+L1 penalty LinearSVC
+average recall:   0.483
+L1 penalty SGDClassifier
+average recall:   0.383
+Elastic-Net penalty SGDClassifier
+average recall:   0.467
+NearestCentroid
+average recall:   0.450
+Naive Bayes
+average recall:   0.417
+LinearSVC with L1-based feature selection
+average recall:   0.417
+feature type head; time interval: 50
+Female
+################################################################################
+Ridge Classifier
+average recall:   0.500
+Perceptron
+average recall:   0.364
+Passive-Aggressive
+average recall:   0.364
+L2 penalty LinearSVC
+average recall:   0.364
+L2 penalty SGDClassifier
+average recall:   0.409
+L1 penalty LinearSVC
+average recall:   0.364
+L1 penalty SGDClassifier
+average recall:   0.364
+Elastic-Net penalty SGDClassifier
+average recall:   0.409
+NearestCentroid
+average recall:   0.409
+Naive Bayes
+average recall:   0.455
+LinearSVC with L1-based feature selection
+average recall:   0.364
+Male
+################################################################################
+Ridge Classifier
+average recall:   0.395
+Perceptron
+average recall:   0.447
+Passive-Aggressive
+average recall:   0.421
+L2 penalty LinearSVC
+average recall:   0.421
+L2 penalty SGDClassifier
+average recall:   0.447
+L1 penalty LinearSVC
+average recall:   0.421
+L1 penalty SGDClassifier
+average recall:   0.395
+Elastic-Net penalty SGDClassifier
+average recall:   0.447
+NearestCentroid
+average recall:   0.474
+Naive Bayes
+average recall:   0.500
+LinearSVC with L1-based feature selection
+average recall:   0.421
+All gender
+################################################################################
+Ridge Classifier
+average recall:   0.467
+Perceptron
+average recall:   0.350
+Passive-Aggressive
+average recall:   0.367
+L2 penalty LinearSVC
+average recall:   0.433
+L2 penalty SGDClassifier
+average recall:   0.450
+L1 penalty LinearSVC
+average recall:   0.450
+L1 penalty SGDClassifier
+average recall:   0.367
+Elastic-Net penalty SGDClassifier
+average recall:   0.433
+NearestCentroid
+average recall:   0.433
+Naive Bayes
+average recall:   0.417
+LinearSVC with L1-based feature selection
+average recall:   0.433
+feature type head; time interval: 70
+Female
+################################################################################
+Ridge Classifier
+average recall:   0.455
+Perceptron
+average recall:   0.409
+Passive-Aggressive
+average recall:   0.409
+L2 penalty LinearSVC
+average recall:   0.500
+L2 penalty SGDClassifier
+average recall:   0.455
+L1 penalty LinearSVC
+average recall:   0.409
+L1 penalty SGDClassifier
+average recall:   0.455
+Elastic-Net penalty SGDClassifier
+average recall:   0.409
+NearestCentroid
+average recall:   0.409
+Naive Bayes
+average recall:   0.500
+LinearSVC with L1-based feature selection
+average recall:   0.500
+Male
+################################################################################
+Ridge Classifier
+average recall:   0.395
+Perceptron
+average recall:   0.500
+Passive-Aggressive
+average recall:   0.500
+L2 penalty LinearSVC
+average recall:   0.395
+L2 penalty SGDClassifier
+average recall:   0.368
+L1 penalty LinearSVC
+average recall:   0.421
+L1 penalty SGDClassifier
+average recall:   0.368
+Elastic-Net penalty SGDClassifier
+average recall:   0.395
+NearestCentroid
+average recall:   0.474
+Naive Bayes
+average recall:   0.500
+LinearSVC with L1-based feature selection
+average recall:   0.395
+All gender
+################################################################################
+Ridge Classifier
+average recall:   0.483
+Perceptron
+average recall:   0.450
+Passive-Aggressive
+average recall:   0.333
+L2 penalty LinearSVC
+average recall:   0.383
+L2 penalty SGDClassifier
+average recall:   0.433
+L1 penalty LinearSVC
+average recall:   0.467
+L1 penalty SGDClassifier
+average recall:   0.383
+Elastic-Net penalty SGDClassifier
+average recall:   0.417
+NearestCentroid
+average recall:   0.450
+Naive Bayes
+average recall:   0.417
+LinearSVC with L1-based feature selection
+average recall:   0.400
+feature type head; time interval: 90
+Female
+################################################################################
+Ridge Classifier
+average recall:   0.500
+Perceptron
+average recall:   0.455
+Passive-Aggressive
+average recall:   0.409
+L2 penalty LinearSVC
+average recall:   0.455
+L2 penalty SGDClassifier
+average recall:   0.455
+L1 penalty LinearSVC
+average recall:   0.364
+L1 penalty SGDClassifier
+average recall:   0.591
+Elastic-Net penalty SGDClassifier
+average recall:   0.455
+NearestCentroid
+average recall:   0.409
+Naive Bayes
+average recall:   0.455
+LinearSVC with L1-based feature selection
+average recall:   0.500
+Male
+################################################################################
+Ridge Classifier
+average recall:   0.368
+Perceptron
+average recall:   0.395
+Passive-Aggressive
+average recall:   0.368
+L2 penalty LinearSVC
+average recall:   0.395
+L2 penalty SGDClassifier
+average recall:   0.447
+L1 penalty LinearSVC
+average recall:   0.395
+L1 penalty SGDClassifier
+average recall:   0.395
+Elastic-Net penalty SGDClassifier
+average recall:   0.395
+NearestCentroid
+average recall:   0.500
+Naive Bayes
+average recall:   0.474
+LinearSVC with L1-based feature selection
+average recall:   0.395
+All gender
+################################################################################
+Ridge Classifier
+average recall:   0.483
+Perceptron
+average recall:   0.333
+Passive-Aggressive
+average recall:   0.383
+L2 penalty LinearSVC
+average recall:   0.383
+L2 penalty SGDClassifier
+average recall:   0.433
+L1 penalty LinearSVC
+average recall:   0.450
+L1 penalty SGDClassifier
+average recall:   0.383
+Elastic-Net penalty SGDClassifier
+average recall:   0.383
+NearestCentroid
+average recall:   0.417
+Naive Bayes
+average recall:   0.417
+LinearSVC with L1-based feature selection
+average recall:   0.383
+feature type head; time interval: 120
+Female
+################################################################################
+Ridge Classifier
+average recall:   0.500
+Perceptron
+average recall:   0.455
+Passive-Aggressive
+average recall:   0.455
+L2 penalty LinearSVC
+average recall:   0.500
+L2 penalty SGDClassifier
+average recall:   0.364
+L1 penalty LinearSVC
+average recall:   0.409
+L1 penalty SGDClassifier
+average recall:   0.500
+Elastic-Net penalty SGDClassifier
+average recall:   0.455
+NearestCentroid
+average recall:   0.409
+Naive Bayes
+average recall:   0.409
+LinearSVC with L1-based feature selection
+average recall:   0.455
+Male
+################################################################################
+Ridge Classifier
+average recall:   0.368
+Perceptron
+average recall:   0.421
+Passive-Aggressive
+average recall:   0.395
+L2 penalty LinearSVC
+average recall:   0.395
+L2 penalty SGDClassifier
+average recall:   0.368
+L1 penalty LinearSVC
+average recall:   0.395
+L1 penalty SGDClassifier
+average recall:   0.421
+Elastic-Net penalty SGDClassifier
+average recall:   0.395
+NearestCentroid
+average recall:   0.474
+Naive Bayes
+average recall:   0.474
+LinearSVC with L1-based feature selection
+average recall:   0.395
+All gender
+################################################################################
+Ridge Classifier
+average recall:   0.483
+Perceptron
+average recall:   0.300
+Passive-Aggressive
+average recall:   0.333
+L2 penalty LinearSVC
+average recall:   0.433
+L2 penalty SGDClassifier
+average recall:   0.417
+L1 penalty LinearSVC
+average recall:   0.450
+L1 penalty SGDClassifier
+average recall:   0.333
+Elastic-Net penalty SGDClassifier
+average recall:   0.383
+NearestCentroid
+average recall:   0.450
+Naive Bayes
+average recall:   0.417
+LinearSVC with L1-based feature selection
+average recall:   0.433
+feature type head; time interval: 150
+Female
+################################################################################
+Ridge Classifier
+average recall:   0.455
+Perceptron
+average recall:   0.455
+Passive-Aggressive
+average recall:   0.455
+L2 penalty LinearSVC
+average recall:   0.455
+L2 penalty SGDClassifier
+average recall:   0.455
+L1 penalty LinearSVC
+average recall:   0.455
+L1 penalty SGDClassifier
+average recall:   0.545
+Elastic-Net penalty SGDClassifier
+average recall:   0.455
+NearestCentroid
+average recall:   0.364
+Naive Bayes
+average recall:   0.409
+LinearSVC with L1-based feature selection
+average recall:   0.455
+Male
+################################################################################
+Ridge Classifier
+average recall:   0.316
+Perceptron
+average recall:   0.395
+Passive-Aggressive
+average recall:   0.447
+L2 penalty LinearSVC
+average recall:   0.421
+L2 penalty SGDClassifier
+average recall:   0.395
+L1 penalty LinearSVC
+average recall:   0.395
+L1 penalty SGDClassifier
+average recall:   0.421
+Elastic-Net penalty SGDClassifier
+average recall:   0.421
+NearestCentroid
+average recall:   0.500
+Naive Bayes
+average recall:   0.500
+LinearSVC with L1-based feature selection
+average recall:   0.421
+All gender
+################################################################################
+Ridge Classifier
+average recall:   0.517
+Perceptron
+average recall:   0.367
+Passive-Aggressive
+average recall:   0.383
+L2 penalty LinearSVC
+average recall:   0.433
+L2 penalty SGDClassifier
+average recall:   0.433
+L1 penalty LinearSVC
+average recall:   0.450
+L1 penalty SGDClassifier
+average recall:   0.417
+Elastic-Net penalty SGDClassifier
+average recall:   0.367
+NearestCentroid
+average recall:   0.433
+Naive Bayes
+average recall:   0.433
+LinearSVC with L1-based feature selection
+average recall:   0.450
+feature type head; time interval: 200
+Female
+################################################################################
+Ridge Classifier
+average recall:   0.455
+Perceptron
+average recall:   0.500
+Passive-Aggressive
+average recall:   0.500
+L2 penalty LinearSVC
+average recall:   0.409
+L2 penalty SGDClassifier
+average recall:   0.500
+L1 penalty LinearSVC
+average recall:   0.455
+L1 penalty SGDClassifier
+average recall:   0.591
+Elastic-Net penalty SGDClassifier
+average recall:   0.455
+NearestCentroid
+average recall:   0.364
+Naive Bayes
+average recall:   0.500
+LinearSVC with L1-based feature selection
+average recall:   0.409
+Male
+################################################################################
+Ridge Classifier
+average recall:   0.342
+Perceptron
+average recall:   0.368
+Passive-Aggressive
+average recall:   0.342
+L2 penalty LinearSVC
+average recall:   0.368
+L2 penalty SGDClassifier
+average recall:   0.368
+L1 penalty LinearSVC
+average recall:   0.395
+L1 penalty SGDClassifier
+average recall:   0.421
+Elastic-Net penalty SGDClassifier
+average recall:   0.395
+NearestCentroid
+average recall:   0.474
+Naive Bayes
+average recall:   0.500
+LinearSVC with L1-based feature selection
+average recall:   0.368
+All gender
+################################################################################
+Ridge Classifier
+average recall:   0.533
+Perceptron
+average recall:   0.383
+Passive-Aggressive
+average recall:   0.400
+L2 penalty LinearSVC
+average recall:   0.433
+L2 penalty SGDClassifier
+average recall:   0.467
+L1 penalty LinearSVC
+average recall:   0.467
+L1 penalty SGDClassifier
+average recall:   0.350
+Elastic-Net penalty SGDClassifier
+average recall:   0.450
+NearestCentroid
+average recall:   0.433
+Naive Bayes
+average recall:   0.450
+LinearSVC with L1-based feature selection
+average recall:   0.433
+feature type pose; time interval: 5
+Female
+################################################################################
+Ridge Classifier
+average recall:   0.273
+Perceptron
+average recall:   0.273
+Passive-Aggressive
+average recall:   0.273
+L2 penalty LinearSVC
+average recall:   0.227
+L2 penalty SGDClassifier
+average recall:   0.273
+L1 penalty LinearSVC
+average recall:   0.227
+L1 penalty SGDClassifier
+average recall:   0.273
+Elastic-Net penalty SGDClassifier
+average recall:   0.318
+NearestCentroid
+average recall:   0.364
+Naive Bayes
+average recall:   0.364
+LinearSVC with L1-based feature selection
+average recall:   0.273
+Male
+################################################################################
+Ridge Classifier
+average recall:   0.421
+Perceptron
+average recall:   0.368
+Passive-Aggressive
+average recall:   0.395
+L2 penalty LinearSVC
+average recall:   0.368
+L2 penalty SGDClassifier
+average recall:   0.342
+L1 penalty LinearSVC
+average recall:   0.342
+L1 penalty SGDClassifier
+average recall:   0.342
+Elastic-Net penalty SGDClassifier
+average recall:   0.342
+NearestCentroid
+average recall:   0.421
+Naive Bayes
+average recall:   0.421
+LinearSVC with L1-based feature selection
+average recall:   0.395
+All gender
+################################################################################
+Ridge Classifier
+average recall:   0.400
+Perceptron
+average recall:   0.367
+Passive-Aggressive
+average recall:   0.383
+L2 penalty LinearSVC
+average recall:   0.367
+L2 penalty SGDClassifier
+average recall:   0.367
+L1 penalty LinearSVC
+average recall:   0.383
+L1 penalty SGDClassifier
+average recall:   0.400
+Elastic-Net penalty SGDClassifier
+average recall:   0.367
+NearestCentroid
+average recall:   0.367
+Naive Bayes
+average recall:   0.400
+LinearSVC with L1-based feature selection
+average recall:   0.367
+feature type pose; time interval: 10
+Female
+################################################################################
+Ridge Classifier
+average recall:   0.273
+Perceptron
+average recall:   0.273
+Passive-Aggressive
+average recall:   0.273
+L2 penalty LinearSVC
+average recall:   0.273
+L2 penalty SGDClassifier
+average recall:   0.318
+L1 penalty LinearSVC
+average recall:   0.227
+L1 penalty SGDClassifier
+average recall:   0.273
+Elastic-Net penalty SGDClassifier
+average recall:   0.318
+NearestCentroid
+average recall:   0.318
+Naive Bayes
+average recall:   0.364
+LinearSVC with L1-based feature selection
+average recall:   0.273
+Male
+################################################################################
+Ridge Classifier
+average recall:   0.421
+Perceptron
+average recall:   0.342
+Passive-Aggressive
+average recall:   0.395
+L2 penalty LinearSVC
+average recall:   0.395
+L2 penalty SGDClassifier
+average recall:   0.368
+L1 penalty LinearSVC
+average recall:   0.395
+L1 penalty SGDClassifier
+average recall:   0.474
+Elastic-Net penalty SGDClassifier
+average recall:   0.395
+NearestCentroid
+average recall:   0.447
+Naive Bayes
+average recall:   0.474
+LinearSVC with L1-based feature selection
+average recall:   0.395
+All gender
+################################################################################
+Ridge Classifier
+average recall:   0.350
+Perceptron
+average recall:   0.400
+Passive-Aggressive
+average recall:   0.350
+L2 penalty LinearSVC
+average recall:   0.350
+L2 penalty SGDClassifier
+average recall:   0.433
+L1 penalty LinearSVC
+average recall:   0.383
+L1 penalty SGDClassifier
+average recall:   0.367
+Elastic-Net penalty SGDClassifier
+average recall:   0.350
+NearestCentroid
+average recall:   0.367
+Naive Bayes
+average recall:   0.383
+LinearSVC with L1-based feature selection
+average recall:   0.367
+feature type pose; time interval: 20
+Female
+################################################################################
+Ridge Classifier
+average recall:   0.273
+Perceptron
+average recall:   0.273
+Passive-Aggressive
+average recall:   0.273
+L2 penalty LinearSVC
+average recall:   0.227
+L2 penalty SGDClassifier
+average recall:   0.273
+L1 penalty LinearSVC
+average recall:   0.227
+L1 penalty SGDClassifier
+average recall:   0.273
+Elastic-Net penalty SGDClassifier
+average recall:   0.273
+NearestCentroid
+average recall:   0.318
+Naive Bayes
+average recall:   0.364
+LinearSVC with L1-based feature selection
+average recall:   0.273
+Male
+################################################################################
+Ridge Classifier
+average recall:   0.395
+Perceptron
+average recall:   0.395
+Passive-Aggressive
+average recall:   0.316
+L2 penalty LinearSVC
+average recall:   0.447
+L2 penalty SGDClassifier
+average recall:   0.316
+L1 penalty LinearSVC
+average recall:   0.474
+L1 penalty SGDClassifier
+average recall:   0.395
+Elastic-Net penalty SGDClassifier
+average recall:   0.395
+NearestCentroid
+average recall:   0.342
+Naive Bayes
+average recall:   0.316
+LinearSVC with L1-based feature selection
+average recall:   0.447
+All gender
+################################################################################
+Ridge Classifier
+average recall:   0.333
+Perceptron
+average recall:   0.367
+Passive-Aggressive
+average recall:   0.317
+L2 penalty LinearSVC
+average recall:   0.350
+L2 penalty SGDClassifier
+average recall:   0.367
+L1 penalty LinearSVC
+average recall:   0.350
+L1 penalty SGDClassifier
+average recall:   0.350
+Elastic-Net penalty SGDClassifier
+average recall:   0.333
+NearestCentroid
+average recall:   0.367
+Naive Bayes
+average recall:   0.383
+LinearSVC with L1-based feature selection
+average recall:   0.333
+feature type pose; time interval: 30
+Female
+################################################################################
+Ridge Classifier
+average recall:   0.273
+Perceptron
+average recall:   0.273
+Passive-Aggressive
+average recall:   0.227
+L2 penalty LinearSVC
+average recall:   0.227
+L2 penalty SGDClassifier
+average recall:   0.227
+L1 penalty LinearSVC
+average recall:   0.273
+L1 penalty SGDClassifier
+average recall:   0.318
+Elastic-Net penalty SGDClassifier
+average recall:   0.318
+NearestCentroid
+average recall:   0.318
+Naive Bayes
+average recall:   0.318
+LinearSVC with L1-based feature selection
+average recall:   0.227
+Male
+################################################################################
+Ridge Classifier
+average recall:   0.395
+Perceptron
+average recall:   0.395
+Passive-Aggressive
+average recall:   0.368
+L2 penalty LinearSVC
+average recall:   0.421
+L2 penalty SGDClassifier
+average recall:   0.368
+L1 penalty LinearSVC
+average recall:   0.395
+L1 penalty SGDClassifier
+average recall:   0.342
+Elastic-Net penalty SGDClassifier
+average recall:   0.342
+NearestCentroid
+average recall:   0.421
+Naive Bayes
+average recall:   0.316
+LinearSVC with L1-based feature selection
+average recall:   0.421
+All gender
+################################################################################
+Ridge Classifier
+average recall:   0.350
+Perceptron
+average recall:   0.333
+Passive-Aggressive
+average recall:   0.367
+L2 penalty LinearSVC
+average recall:   0.333
+L2 penalty SGDClassifier
+average recall:   0.367
+L1 penalty LinearSVC
+average recall:   0.333
+L1 penalty SGDClassifier
+average recall:   0.417
+Elastic-Net penalty SGDClassifier
+average recall:   0.350
+NearestCentroid
+average recall:   0.350
+Naive Bayes
+average recall:   0.350
+LinearSVC with L1-based feature selection
+average recall:   0.333
+feature type pose; time interval: 50
+Female
+################################################################################
+Ridge Classifier
+average recall:   0.273
+Perceptron
+average recall:   0.227
+Passive-Aggressive
+average recall:   0.227
+L2 penalty LinearSVC
+average recall:   0.227
+L2 penalty SGDClassifier
+average recall:   0.227
+L1 penalty LinearSVC
+average recall:   0.227
+L1 penalty SGDClassifier
+average recall:   0.273
+Elastic-Net penalty SGDClassifier
+average recall:   0.227
+NearestCentroid
+average recall:   0.364
+Naive Bayes
+average recall:   0.364
+LinearSVC with L1-based feature selection
+average recall:   0.227
+Male
+################################################################################
+Ridge Classifier
+average recall:   0.421
+Perceptron
+average recall:   0.342
+Passive-Aggressive
+average recall:   0.395
+L2 penalty LinearSVC
+average recall:   0.395
+L2 penalty SGDClassifier
+average recall:   0.342
+L1 penalty LinearSVC
+average recall:   0.368
+L1 penalty SGDClassifier
+average recall:   0.342
+Elastic-Net penalty SGDClassifier
+average recall:   0.368
+NearestCentroid
+average recall:   0.395
+Naive Bayes
+average recall:   0.342
+LinearSVC with L1-based feature selection
+average recall:   0.368
+All gender
+################################################################################
+Ridge Classifier
+average recall:   0.333
+Perceptron
+average recall:   0.317
+Passive-Aggressive
+average recall:   0.350
+L2 penalty LinearSVC
+average recall:   0.350
+L2 penalty SGDClassifier
+average recall:   0.300
+L1 penalty LinearSVC
+average recall:   0.333
+L1 penalty SGDClassifier
+average recall:   0.367
+Elastic-Net penalty SGDClassifier
+average recall:   0.300
+NearestCentroid
+average recall:   0.400
+Naive Bayes
+average recall:   0.317
+LinearSVC with L1-based feature selection
+average recall:   0.350
+feature type pose; time interval: 70
+Female
+################################################################################
+Ridge Classifier
+average recall:   0.318
+Perceptron
+average recall:   0.227
+Passive-Aggressive
+average recall:   0.227
+L2 penalty LinearSVC
+average recall:   0.227
+L2 penalty SGDClassifier
+average recall:   0.227
+L1 penalty LinearSVC
+average recall:   0.227
+L1 penalty SGDClassifier
+average recall:   0.273
+Elastic-Net penalty SGDClassifier
+average recall:   0.182
+NearestCentroid
+average recall:   0.318
+Naive Bayes
+average recall:   0.409
+LinearSVC with L1-based feature selection
+average recall:   0.227
+Male
+################################################################################
+Ridge Classifier
+average recall:   0.421
+Perceptron
+average recall:   0.368
+Passive-Aggressive
+average recall:   0.395
+L2 penalty LinearSVC
+average recall:   0.421
+L2 penalty SGDClassifier
+average recall:   0.368
+L1 penalty LinearSVC
+average recall:   0.421
+L1 penalty SGDClassifier
+average recall:   0.342
+Elastic-Net penalty SGDClassifier
+average recall:   0.342
+NearestCentroid
+average recall:   0.395
+Naive Bayes
+average recall:   0.368
+LinearSVC with L1-based feature selection
+average recall:   0.421
+All gender
+################################################################################
+Ridge Classifier
+average recall:   0.350
+Perceptron
+average recall:   0.383
+Passive-Aggressive
+average recall:   0.333
+L2 penalty LinearSVC
+average recall:   0.383
+L2 penalty SGDClassifier
+average recall:   0.400
+L1 penalty LinearSVC
+average recall:   0.433
+L1 penalty SGDClassifier
+average recall:   0.433
+Elastic-Net penalty SGDClassifier
+average recall:   0.383
+NearestCentroid
+average recall:   0.350
+Naive Bayes
+average recall:   0.300
+LinearSVC with L1-based feature selection
+average recall:   0.383
+feature type pose; time interval: 90
+Female
+################################################################################
+Ridge Classifier
+average recall:   0.318
+Perceptron
+average recall:   0.227
+Passive-Aggressive
+average recall:   0.227
+L2 penalty LinearSVC
+average recall:   0.227
+L2 penalty SGDClassifier
+average recall:   0.182
+L1 penalty LinearSVC
+average recall:   0.273
+L1 penalty SGDClassifier
+average recall:   0.273
+Elastic-Net penalty SGDClassifier
+average recall:   0.227
+NearestCentroid
+average recall:   0.364
+Naive Bayes
+average recall:   0.455
+LinearSVC with L1-based feature selection
+average recall:   0.182
+Male
+################################################################################
+Ridge Classifier
+average recall:   0.395
+Perceptron
+average recall:   0.395
+Passive-Aggressive
+average recall:   0.368
+L2 penalty LinearSVC
+average recall:   0.368
+L2 penalty SGDClassifier
+average recall:   0.395
+L1 penalty LinearSVC
+average recall:   0.395
+L1 penalty SGDClassifier
+average recall:   0.368
+Elastic-Net penalty SGDClassifier
+average recall:   0.368
+NearestCentroid
+average recall:   0.395
+Naive Bayes
+average recall:   0.342
+LinearSVC with L1-based feature selection
+average recall:   0.421
+All gender
+################################################################################
+Ridge Classifier
+average recall:   0.367
+Perceptron
+average recall:   0.350
+Passive-Aggressive
+average recall:   0.417
+L2 penalty LinearSVC
+average recall:   0.400
+L2 penalty SGDClassifier
+average recall:   0.317
+L1 penalty LinearSVC
+average recall:   0.367
+L1 penalty SGDClassifier
+average recall:   0.400
+Elastic-Net penalty SGDClassifier
+average recall:   0.367
+NearestCentroid
+average recall:   0.383
+Naive Bayes
+average recall:   0.383
+LinearSVC with L1-based feature selection
+average recall:   0.383
+feature type pose; time interval: 120
+Female
+################################################################################
+Ridge Classifier
+average recall:   0.227
+Perceptron
+average recall:   0.318
+Passive-Aggressive
+average recall:   0.227
+L2 penalty LinearSVC
+average recall:   0.273
+L2 penalty SGDClassifier
+average recall:   0.318
+L1 penalty LinearSVC
+average recall:   0.273
+L1 penalty SGDClassifier
+average recall:   0.318
+Elastic-Net penalty SGDClassifier
+average recall:   0.318
+NearestCentroid
+average recall:   0.318
+Naive Bayes
+average recall:   0.455
+LinearSVC with L1-based feature selection
+average recall:   0.227
+Male
+################################################################################
+Ridge Classifier
+average recall:   0.395
+Perceptron
+average recall:   0.395
+Passive-Aggressive
+average recall:   0.421
+L2 penalty LinearSVC
+average recall:   0.447
+L2 penalty SGDClassifier
+average recall:   0.368
+L1 penalty LinearSVC
+average recall:   0.447
+L1 penalty SGDClassifier
+average recall:   0.289
+Elastic-Net penalty SGDClassifier
+average recall:   0.316
+NearestCentroid
+average recall:   0.395
+Naive Bayes
+average recall:   0.368
+LinearSVC with L1-based feature selection
+average recall:   0.447
+All gender
+################################################################################
+Ridge Classifier
+average recall:   0.367
+Perceptron
+average recall:   0.383
+Passive-Aggressive
+average recall:   0.400
+L2 penalty LinearSVC
+average recall:   0.367
+L2 penalty SGDClassifier
+average recall:   0.383
+L1 penalty LinearSVC
+average recall:   0.383
+L1 penalty SGDClassifier
+average recall:   0.433
+Elastic-Net penalty SGDClassifier
+average recall:   0.383
+NearestCentroid
+average recall:   0.400
+Naive Bayes
+average recall:   0.400
+LinearSVC with L1-based feature selection
+average recall:   0.367
+feature type pose; time interval: 150
+Female
+################################################################################
+Ridge Classifier
+average recall:   0.273
+Perceptron
+average recall:   0.273
+Passive-Aggressive
+average recall:   0.318
+L2 penalty LinearSVC
+average recall:   0.273
+L2 penalty SGDClassifier
+average recall:   0.318
+L1 penalty LinearSVC
+average recall:   0.273
+L1 penalty SGDClassifier
+average recall:   0.273
+Elastic-Net penalty SGDClassifier
+average recall:   0.318
+NearestCentroid
+average recall:   0.364
+Naive Bayes
+average recall:   0.364
+LinearSVC with L1-based feature selection
+average recall:   0.273
+Male
+################################################################################
+Ridge Classifier
+average recall:   0.395
+Perceptron
+average recall:   0.368
+Passive-Aggressive
+average recall:   0.368
+L2 penalty LinearSVC
+average recall:   0.447
+L2 penalty SGDClassifier
+average recall:   0.368
+L1 penalty LinearSVC
+average recall:   0.395
+L1 penalty SGDClassifier
+average recall:   0.289
+Elastic-Net penalty SGDClassifier
+average recall:   0.368
+NearestCentroid
+average recall:   0.395
+Naive Bayes
+average recall:   0.395
+LinearSVC with L1-based feature selection
+average recall:   0.447
+All gender
+################################################################################
+Ridge Classifier
+average recall:   0.367
+Perceptron
+average recall:   0.417
+Passive-Aggressive
+average recall:   0.417
+L2 penalty LinearSVC
+average recall:   0.383
+L2 penalty SGDClassifier
+average recall:   0.417
+L1 penalty LinearSVC
+average recall:   0.367
+L1 penalty SGDClassifier
+average recall:   0.467
+Elastic-Net penalty SGDClassifier
+average recall:   0.400
+NearestCentroid
+average recall:   0.367
+Naive Bayes
+average recall:   0.367
+LinearSVC with L1-based feature selection
+average recall:   0.383
+feature type pose; time interval: 200
+Female
+################################################################################
+Ridge Classifier
+average recall:   0.273
+Perceptron
+average recall:   0.318
+Passive-Aggressive
+average recall:   0.273
+L2 penalty LinearSVC
+average recall:   0.273
+L2 penalty SGDClassifier
+average recall:   0.318
+L1 penalty LinearSVC
+average recall:   0.318
+L1 penalty SGDClassifier
+average recall:   0.318
+Elastic-Net penalty SGDClassifier
+average recall:   0.318
+NearestCentroid
+average recall:   0.409
+Naive Bayes
+average recall:   0.409
+LinearSVC with L1-based feature selection
+average recall:   0.182
+Male
+################################################################################
+Ridge Classifier
+average recall:   0.395
+Perceptron
+average recall:   0.289
+Passive-Aggressive
+average recall:   0.368
+L2 penalty LinearSVC
+average recall:   0.368
+L2 penalty SGDClassifier
+average recall:   0.368
+L1 penalty LinearSVC
+average recall:   0.395
+L1 penalty SGDClassifier
+average recall:   0.263
+Elastic-Net penalty SGDClassifier
+average recall:   0.342
+NearestCentroid
+average recall:   0.421
+Naive Bayes
+average recall:   0.316
+LinearSVC with L1-based feature selection
+average recall:   0.395
+All gender
+################################################################################
+Ridge Classifier
+average recall:   0.400
+Perceptron
+average recall:   0.417
+Passive-Aggressive
+average recall:   0.417
+L2 penalty LinearSVC
+average recall:   0.400
+L2 penalty SGDClassifier
+average recall:   0.367
+L1 penalty LinearSVC
+average recall:   0.383
+L1 penalty SGDClassifier
+average recall:   0.417
+Elastic-Net penalty SGDClassifier
+average recall:   0.383
+NearestCentroid
+average recall:   0.383
+Naive Bayes
+average recall:   0.400
+LinearSVC with L1-based feature selection
+average recall:   0.383
+feature type gaze_angle; time interval: 5
+Female
+################################################################################
+Ridge Classifier
+average recall:   0.318
+Perceptron
+average recall:   0.455
+Passive-Aggressive
+average recall:   0.318
+L2 penalty LinearSVC
+average recall:   0.318
+L2 penalty SGDClassifier
+average recall:   0.364
+L1 penalty LinearSVC
+average recall:   0.273
+L1 penalty SGDClassifier
+average recall:   0.318
+Elastic-Net penalty SGDClassifier
+average recall:   0.409
+NearestCentroid
+average recall:   0.273
+Naive Bayes
+average recall:   0.227
+LinearSVC with L1-based feature selection
+average recall:   0.318
+Male
+################################################################################
+Ridge Classifier
+average recall:   0.342
+Perceptron
+average recall:   0.316
+Passive-Aggressive
+average recall:   0.421
+L2 penalty LinearSVC
+average recall:   0.368
+L2 penalty SGDClassifier
+average recall:   0.395
+L1 penalty LinearSVC
+average recall:   0.342
+L1 penalty SGDClassifier
+average recall:   0.368
+Elastic-Net penalty SGDClassifier
+average recall:   0.500
+NearestCentroid
+average recall:   0.342
+Naive Bayes
+average recall:   0.395
+LinearSVC with L1-based feature selection
+average recall:   0.368
+All gender
+################################################################################
+Ridge Classifier
+average recall:   0.283
+Perceptron
+average recall:   0.300
+Passive-Aggressive
+average recall:   0.350
+L2 penalty LinearSVC
+average recall:   0.317
+L2 penalty SGDClassifier
+average recall:   0.367
+L1 penalty LinearSVC
+average recall:   0.350
+L1 penalty SGDClassifier
+average recall:   0.300
+Elastic-Net penalty SGDClassifier
+average recall:   0.333
+NearestCentroid
+average recall:   0.267
+Naive Bayes
+average recall:   0.300
+LinearSVC with L1-based feature selection
+average recall:   0.317
+feature type gaze_angle; time interval: 10
+Female
+################################################################################
+Ridge Classifier
+average recall:   0.364
+Perceptron
+average recall:   0.273
+Passive-Aggressive
+average recall:   0.273
+L2 penalty LinearSVC
+average recall:   0.318
+L2 penalty SGDClassifier
+average recall:   0.318
+L1 penalty LinearSVC
+average recall:   0.318
+L1 penalty SGDClassifier
+average recall:   0.409
+Elastic-Net penalty SGDClassifier
+average recall:   0.318
+NearestCentroid
+average recall:   0.273
+Naive Bayes
+average recall:   0.227
+LinearSVC with L1-based feature selection
+average recall:   0.318
+Male
+################################################################################
+Ridge Classifier
+average recall:   0.368
+Perceptron
+average recall:   0.342
+Passive-Aggressive
+average recall:   0.447
+L2 penalty LinearSVC
+average recall:   0.368
+L2 penalty SGDClassifier
+average recall:   0.447
+L1 penalty LinearSVC
+average recall:   0.342
+L1 penalty SGDClassifier
+average recall:   0.368
+Elastic-Net penalty SGDClassifier
+average recall:   0.395
+NearestCentroid
+average recall:   0.289
+Naive Bayes
+average recall:   0.368
+LinearSVC with L1-based feature selection
+average recall:   0.368
+All gender
+################################################################################
+Ridge Classifier
+average recall:   0.283
+Perceptron
+average recall:   0.300
+Passive-Aggressive
+average recall:   0.250
+L2 penalty LinearSVC
+average recall:   0.283
+L2 penalty SGDClassifier
+average recall:   0.383
+L1 penalty LinearSVC
+average recall:   0.300
+L1 penalty SGDClassifier
+average recall:   0.317
+Elastic-Net penalty SGDClassifier
+average recall:   0.300
+NearestCentroid
+average recall:   0.300
+Naive Bayes
+average recall:   0.317
+LinearSVC with L1-based feature selection
+average recall:   0.283
+feature type gaze_angle; time interval: 20
+Female
+################################################################################
+Ridge Classifier
+average recall:   0.318
+Perceptron
+average recall:   0.273
+Passive-Aggressive
+average recall:   0.227
+L2 penalty LinearSVC
+average recall:   0.318
+L2 penalty SGDClassifier
+average recall:   0.409
+L1 penalty LinearSVC
+average recall:   0.318
+L1 penalty SGDClassifier
+average recall:   0.409
+Elastic-Net penalty SGDClassifier
+average recall:   0.273
+NearestCentroid
+average recall:   0.227
+Naive Bayes
+average recall:   0.227
+LinearSVC with L1-based feature selection
+average recall:   0.318
+Male
+################################################################################
+Ridge Classifier
+average recall:   0.368
+Perceptron
+average recall:   0.368
+Passive-Aggressive
+average recall:   0.316
+L2 penalty LinearSVC
+average recall:   0.395
+L2 penalty SGDClassifier
+average recall:   0.421
+L1 penalty LinearSVC
+average recall:   0.395
+L1 penalty SGDClassifier
+average recall:   0.447
+Elastic-Net penalty SGDClassifier
+average recall:   0.474
+NearestCentroid
+average recall:   0.342
+Naive Bayes
+average recall:   0.342
+LinearSVC with L1-based feature selection
+average recall:   0.395
+All gender
+################################################################################
+Ridge Classifier
+average recall:   0.267
+Perceptron
+average recall:   0.333
+Passive-Aggressive
+average recall:   0.400
+L2 penalty LinearSVC
+average recall:   0.300
+L2 penalty SGDClassifier
+average recall:   0.300
+L1 penalty LinearSVC
+average recall:   0.300
+L1 penalty SGDClassifier
+average recall:   0.317
+Elastic-Net penalty SGDClassifier
+average recall:   0.267
+NearestCentroid
+average recall:   0.300
+Naive Bayes
+average recall:   0.300
+LinearSVC with L1-based feature selection
+average recall:   0.283
+feature type gaze_angle; time interval: 30
+Female
+################################################################################
+Ridge Classifier
+average recall:   0.318
+Perceptron
+average recall:   0.273
+Passive-Aggressive
+average recall:   0.227
+L2 penalty LinearSVC
+average recall:   0.364
+L2 penalty SGDClassifier
+average recall:   0.364
+L1 penalty LinearSVC
+average recall:   0.364
+L1 penalty SGDClassifier
+average recall:   0.409
+Elastic-Net penalty SGDClassifier
+average recall:   0.364
+NearestCentroid
+average recall:   0.273
+Naive Bayes
+average recall:   0.227
+LinearSVC with L1-based feature selection
+average recall:   0.364
+Male
+################################################################################
+Ridge Classifier
+average recall:   0.395
+Perceptron
+average recall:   0.395
+Passive-Aggressive
+average recall:   0.421
+L2 penalty LinearSVC
+average recall:   0.395
+L2 penalty SGDClassifier
+average recall:   0.342
+L1 penalty LinearSVC
+average recall:   0.395
+L1 penalty SGDClassifier
+average recall:   0.368
+Elastic-Net penalty SGDClassifier
+average recall:   0.316
+NearestCentroid
+average recall:   0.316
+Naive Bayes
+average recall:   0.395
+LinearSVC with L1-based feature selection
+average recall:   0.395
+All gender
+################################################################################
+Ridge Classifier
+average recall:   0.317
+Perceptron
+average recall:   0.300
+Passive-Aggressive
+average recall:   0.283
+L2 penalty LinearSVC
+average recall:   0.283
+L2 penalty SGDClassifier
+average recall:   0.283
+L1 penalty LinearSVC
+average recall:   0.300
+L1 penalty SGDClassifier
+average recall:   0.317
+Elastic-Net penalty SGDClassifier
+average recall:   0.333
+NearestCentroid
+average recall:   0.300
+Naive Bayes
+average recall:   0.300
+LinearSVC with L1-based feature selection
+average recall:   0.300
+feature type gaze_angle; time interval: 50
+Female
+################################################################################
+Ridge Classifier
+average recall:   0.318
+Perceptron
+average recall:   0.318
+Passive-Aggressive
+average recall:   0.364
+L2 penalty LinearSVC
+average recall:   0.364
+L2 penalty SGDClassifier
+average recall:   0.318
+L1 penalty LinearSVC
+average recall:   0.318
+L1 penalty SGDClassifier
+average recall:   0.364
+Elastic-Net penalty SGDClassifier
+average recall:   0.364
+NearestCentroid
+average recall:   0.273
+Naive Bayes
+average recall:   0.227
+LinearSVC with L1-based feature selection
+average recall:   0.364
+Male
+################################################################################
+Ridge Classifier
+average recall:   0.395
+Perceptron
+average recall:   0.316
+Passive-Aggressive
+average recall:   0.395
+L2 penalty LinearSVC
+average recall:   0.421
+L2 penalty SGDClassifier
+average recall:   0.395
+L1 penalty LinearSVC
+average recall:   0.395
+L1 penalty SGDClassifier
+average recall:   0.342
+Elastic-Net penalty SGDClassifier
+average recall:   0.289
+NearestCentroid
+average recall:   0.342
+Naive Bayes
+average recall:   0.395
+LinearSVC with L1-based feature selection
+average recall:   0.421
+All gender
+################################################################################
+Ridge Classifier
+average recall:   0.283
+Perceptron
+average recall:   0.283
+Passive-Aggressive
+average recall:   0.333
+L2 penalty LinearSVC
+average recall:   0.300
+L2 penalty SGDClassifier
+average recall:   0.367
+L1 penalty LinearSVC
+average recall:   0.267
+L1 penalty SGDClassifier
+average recall:   0.383
+Elastic-Net penalty SGDClassifier
+average recall:   0.383
+NearestCentroid
+average recall:   0.317
+Naive Bayes
+average recall:   0.300
+LinearSVC with L1-based feature selection
+average recall:   0.300
+feature type gaze_angle; time interval: 70
+Female
+################################################################################
+Ridge Classifier
+average recall:   0.318
+Perceptron
+average recall:   0.409
+Passive-Aggressive
+average recall:   0.409
+L2 penalty LinearSVC
+average recall:   0.364
+L2 penalty SGDClassifier
+average recall:   0.318
+L1 penalty LinearSVC
+average recall:   0.318
+L1 penalty SGDClassifier
+average recall:   0.455
+Elastic-Net penalty SGDClassifier
+average recall:   0.409
+NearestCentroid
+average recall:   0.273
+Naive Bayes
+average recall:   0.227
+LinearSVC with L1-based feature selection
+average recall:   0.364
+Male
+################################################################################
+Ridge Classifier
+average recall:   0.342
+Perceptron
+average recall:   0.289
+Passive-Aggressive
+average recall:   0.447
+L2 penalty LinearSVC
+average recall:   0.395
+L2 penalty SGDClassifier
+average recall:   0.342
+L1 penalty LinearSVC
+average recall:   0.395
+L1 penalty SGDClassifier
+average recall:   0.395
+Elastic-Net penalty SGDClassifier
+average recall:   0.368
+NearestCentroid
+average recall:   0.342
+Naive Bayes
+average recall:   0.316
+LinearSVC with L1-based feature selection
+average recall:   0.395
+All gender
+################################################################################
+Ridge Classifier
+average recall:   0.267
+Perceptron
+average recall:   0.350
+Passive-Aggressive
+average recall:   0.267
+L2 penalty LinearSVC
+average recall:   0.267
+L2 penalty SGDClassifier
+average recall:   0.267
+L1 penalty LinearSVC
+average recall:   0.250
+L1 penalty SGDClassifier
+average recall:   0.250
+Elastic-Net penalty SGDClassifier
+average recall:   0.317
+NearestCentroid
+average recall:   0.300
+Naive Bayes
+average recall:   0.300
+LinearSVC with L1-based feature selection
+average recall:   0.267
+feature type gaze_angle; time interval: 90
+Female
+################################################################################
+Ridge Classifier
+average recall:   0.318
+Perceptron
+average recall:   0.318
+Passive-Aggressive
+average recall:   0.364
+L2 penalty LinearSVC
+average recall:   0.364
+L2 penalty SGDClassifier
+average recall:   0.318
+L1 penalty LinearSVC
+average recall:   0.364
+L1 penalty SGDClassifier
+average recall:   0.409
+Elastic-Net penalty SGDClassifier
+average recall:   0.364
+NearestCentroid
+average recall:   0.273
+Naive Bayes
+average recall:   0.227
+LinearSVC with L1-based feature selection
+average recall:   0.364
+Male
+################################################################################
+Ridge Classifier
+average recall:   0.421
+Perceptron
+average recall:   0.316
+Passive-Aggressive
+average recall:   0.447
+L2 penalty LinearSVC
+average recall:   0.395
+L2 penalty SGDClassifier
+average recall:   0.368
+L1 penalty LinearSVC
+average recall:   0.342
+L1 penalty SGDClassifier
+average recall:   0.342
+Elastic-Net penalty SGDClassifier
+average recall:   0.263
+NearestCentroid
+average recall:   0.395
+Naive Bayes
+average recall:   0.368
+LinearSVC with L1-based feature selection
+average recall:   0.395
+All gender
+################################################################################
+Ridge Classifier
+average recall:   0.300
+Perceptron
+average recall:   0.300
+Passive-Aggressive
+average recall:   0.417
+L2 penalty LinearSVC
+average recall:   0.317
+L2 penalty SGDClassifier
+average recall:   0.317
+L1 penalty LinearSVC
+average recall:   0.317
+L1 penalty SGDClassifier
+average recall:   0.317
+Elastic-Net penalty SGDClassifier
+average recall:   0.333
+NearestCentroid
+average recall:   0.333
+Naive Bayes
+average recall:   0.300
+LinearSVC with L1-based feature selection
+average recall:   0.317
+feature type gaze_angle; time interval: 120
+Female
+################################################################################
+Ridge Classifier
+average recall:   0.318
+Perceptron
+average recall:   0.455
+Passive-Aggressive
+average recall:   0.364
+L2 penalty LinearSVC
+average recall:   0.318
+L2 penalty SGDClassifier
+average recall:   0.318
+L1 penalty LinearSVC
+average recall:   0.409
+L1 penalty SGDClassifier
+average recall:   0.409
+Elastic-Net penalty SGDClassifier
+average recall:   0.500
+NearestCentroid
+average recall:   0.273
+Naive Bayes
+average recall:   0.273
+LinearSVC with L1-based feature selection
+average recall:   0.318
+Male
+################################################################################
+Ridge Classifier
+average recall:   0.421
+Perceptron
+average recall:   0.316
+Passive-Aggressive
+average recall:   0.526
+L2 penalty LinearSVC
+average recall:   0.421
+L2 penalty SGDClassifier
+average recall:   0.368
+L1 penalty LinearSVC
+average recall:   0.447
+L1 penalty SGDClassifier
+average recall:   0.395
+Elastic-Net penalty SGDClassifier
+average recall:   0.395
+NearestCentroid
+average recall:   0.342
+Naive Bayes
+average recall:   0.368
+LinearSVC with L1-based feature selection
+average recall:   0.421
+All gender
+################################################################################
+Ridge Classifier
+average recall:   0.250
+Perceptron
+average recall:   0.317
+Passive-Aggressive
+average recall:   0.300
+L2 penalty LinearSVC
+average recall:   0.333
+L2 penalty SGDClassifier
+average recall:   0.317
+L1 penalty LinearSVC
+average recall:   0.300
+L1 penalty SGDClassifier
+average recall:   0.300
+Elastic-Net penalty SGDClassifier
+average recall:   0.267
+NearestCentroid
+average recall:   0.317
+Naive Bayes
+average recall:   0.300
+LinearSVC with L1-based feature selection
+average recall:   0.317
+feature type gaze_angle; time interval: 150
+Female
+################################################################################
+Ridge Classifier
+average recall:   0.318
+Perceptron
+average recall:   0.318
+Passive-Aggressive
+average recall:   0.364
+L2 penalty LinearSVC
+average recall:   0.318
+L2 penalty SGDClassifier
+average recall:   0.273
+L1 penalty LinearSVC
+average recall:   0.318
+L1 penalty SGDClassifier
+average recall:   0.409
+Elastic-Net penalty SGDClassifier
+average recall:   0.364
+NearestCentroid
+average recall:   0.273
+Naive Bayes
+average recall:   0.273
+LinearSVC with L1-based feature selection
+average recall:   0.318
+Male
+################################################################################
+Ridge Classifier
+average recall:   0.395
+Perceptron
+average recall:   0.342
+Passive-Aggressive
+average recall:   0.263
+L2 penalty LinearSVC
+average recall:   0.368
+L2 penalty SGDClassifier
+average recall:   0.421
+L1 penalty LinearSVC
+average recall:   0.421
+L1 penalty SGDClassifier
+average recall:   0.368
+Elastic-Net penalty SGDClassifier
+average recall:   0.395
+NearestCentroid
+average recall:   0.316
+Naive Bayes
+average recall:   0.368
+LinearSVC with L1-based feature selection
+average recall:   0.368
+All gender
+################################################################################
+Ridge Classifier
+average recall:   0.283
+Perceptron
+average recall:   0.367
+Passive-Aggressive
+average recall:   0.383
+L2 penalty LinearSVC
+average recall:   0.300
+L2 penalty SGDClassifier
+average recall:   0.317
+L1 penalty LinearSVC
+average recall:   0.300
+L1 penalty SGDClassifier
+average recall:   0.283
+Elastic-Net penalty SGDClassifier
+average recall:   0.350
+NearestCentroid
+average recall:   0.317
+Naive Bayes
+average recall:   0.283
+LinearSVC with L1-based feature selection
+average recall:   0.300
+feature type gaze_angle; time interval: 200
+Female
+################################################################################
+Ridge Classifier
+average recall:   0.318
+Perceptron
+average recall:   0.364
+Passive-Aggressive
+average recall:   0.364
+L2 penalty LinearSVC
+average recall:   0.318
+L2 penalty SGDClassifier
+average recall:   0.364
+L1 penalty LinearSVC
+average recall:   0.318
+L1 penalty SGDClassifier
+average recall:   0.409
+Elastic-Net penalty SGDClassifier
+average recall:   0.318
+NearestCentroid
+average recall:   0.318
+Naive Bayes
+average recall:   0.273
+LinearSVC with L1-based feature selection
+average recall:   0.318
+Male
+################################################################################
+Ridge Classifier
+average recall:   0.447
+Perceptron
+average recall:   0.395
+Passive-Aggressive
+average recall:   0.316
+L2 penalty LinearSVC
+average recall:   0.421
+L2 penalty SGDClassifier
+average recall:   0.447
+L1 penalty LinearSVC
+average recall:   0.395
+L1 penalty SGDClassifier
+average recall:   0.342
+Elastic-Net penalty SGDClassifier
+average recall:   0.421
+NearestCentroid
+average recall:   0.342
+Naive Bayes
+average recall:   0.368
+LinearSVC with L1-based feature selection
+average recall:   0.421
+All gender
+################################################################################
+Ridge Classifier
+average recall:   0.283
+Perceptron
+average recall:   0.283
+Passive-Aggressive
+average recall:   0.300
+L2 penalty LinearSVC
+average recall:   0.317
+L2 penalty SGDClassifier
+average recall:   0.450
+L1 penalty LinearSVC
+average recall:   0.317
+L1 penalty SGDClassifier
+average recall:   0.300
+Elastic-Net penalty SGDClassifier
+average recall:   0.383
+NearestCentroid
+average recall:   0.317
+Naive Bayes
+average recall:   0.300
+LinearSVC with L1-based feature selection
+average recall:   0.333
+feature type FAUs; time interval: 5
+Female
+################################################################################
+Ridge Classifier
+average recall:   0.273
+Perceptron
+average recall:   0.227
+Passive-Aggressive
+average recall:   0.318
+L2 penalty LinearSVC
+average recall:   0.318
+L2 penalty SGDClassifier
+average recall:   0.364
+L1 penalty LinearSVC
+average recall:   0.227
+L1 penalty SGDClassifier
+average recall:   0.318
+Elastic-Net penalty SGDClassifier
+average recall:   0.273
+NearestCentroid
+average recall:   0.364
+Naive Bayes
+average recall:   0.364
+LinearSVC with L1-based feature selection
+average recall:   0.318
+Male
+################################################################################
+Ridge Classifier
+average recall:   0.474
+Perceptron
+average recall:   0.395
+Passive-Aggressive
+average recall:   0.447
+L2 penalty LinearSVC
+average recall:   0.474
+L2 penalty SGDClassifier
+average recall:   0.421
+L1 penalty LinearSVC
+average recall:   0.447
+L1 penalty SGDClassifier
+average recall:   0.474
+Elastic-Net penalty SGDClassifier
+average recall:   0.474
+NearestCentroid
+average recall:   0.447
+Naive Bayes
+average recall:   0.526
+LinearSVC with L1-based feature selection
+average recall:   0.500
+All gender
+################################################################################
+Ridge Classifier
+average recall:   0.383
+Perceptron
+average recall:   0.383
+Passive-Aggressive
+average recall:   0.367
+L2 penalty LinearSVC
+average recall:   0.333
+L2 penalty SGDClassifier
+average recall:   0.400
+L1 penalty LinearSVC
+average recall:   0.383
+L1 penalty SGDClassifier
+average recall:   0.350
+Elastic-Net penalty SGDClassifier
+average recall:   0.383
+NearestCentroid
+average recall:   0.417
+Naive Bayes
+average recall:   0.467
+LinearSVC with L1-based feature selection
+average recall:   0.350
+feature type FAUs; time interval: 10
+Female
+################################################################################
+Ridge Classifier
+average recall:   0.273
+Perceptron
+average recall:   0.318
+Passive-Aggressive
+average recall:   0.318
+L2 penalty LinearSVC
+average recall:   0.364
+L2 penalty SGDClassifier
+average recall:   0.364
+L1 penalty LinearSVC
+average recall:   0.227
+L1 penalty SGDClassifier
+average recall:   0.364
+Elastic-Net penalty SGDClassifier
+average recall:   0.318
+NearestCentroid
+average recall:   0.455
+Naive Bayes
+average recall:   0.273
+LinearSVC with L1-based feature selection
+average recall:   0.364
+Male
+################################################################################
+Ridge Classifier
+average recall:   0.421
+Perceptron
+average recall:   0.474
+Passive-Aggressive
+average recall:   0.500
+L2 penalty LinearSVC
+average recall:   0.500
+L2 penalty SGDClassifier
+average recall:   0.447
+L1 penalty LinearSVC
+average recall:   0.474
+L1 penalty SGDClassifier
+average recall:   0.500
+Elastic-Net penalty SGDClassifier
+average recall:   0.447
+NearestCentroid
+average recall:   0.421
+Naive Bayes
+average recall:   0.500
+LinearSVC with L1-based feature selection
+average recall:   0.500
+All gender
+################################################################################
+Ridge Classifier
+average recall:   0.383
+Perceptron
+average recall:   0.400
+Passive-Aggressive
+average recall:   0.467
+L2 penalty LinearSVC
+average recall:   0.433
+L2 penalty SGDClassifier
+average recall:   0.333
+L1 penalty LinearSVC
+average recall:   0.450
+L1 penalty SGDClassifier
+average recall:   0.367
+Elastic-Net penalty SGDClassifier
+average recall:   0.350
+NearestCentroid
+average recall:   0.433
+Naive Bayes
+average recall:   0.467
+LinearSVC with L1-based feature selection
+average recall:   0.417
+feature type FAUs; time interval: 20
+Female
+################################################################################
+Ridge Classifier
+average recall:   0.182
+Perceptron
+average recall:   0.273
+Passive-Aggressive
+average recall:   0.227
+L2 penalty LinearSVC
+average recall:   0.273
+L2 penalty SGDClassifier
+average recall:   0.273
+L1 penalty LinearSVC
+average recall:   0.273
+L1 penalty SGDClassifier
+average recall:   0.273
+Elastic-Net penalty SGDClassifier
+average recall:   0.273
+NearestCentroid
+average recall:   0.409
+Naive Bayes
+average recall:   0.273
+LinearSVC with L1-based feature selection
+average recall:   0.227
+Male
+################################################################################
+Ridge Classifier
+average recall:   0.395
+Perceptron
+average recall:   0.474
+Passive-Aggressive
+average recall:   0.368
+L2 penalty LinearSVC
+average recall:   0.447
+L2 penalty SGDClassifier
+average recall:   0.447
+L1 penalty LinearSVC
+average recall:   0.474
+L1 penalty SGDClassifier
+average recall:   0.500
+Elastic-Net penalty SGDClassifier
+average recall:   0.447
+NearestCentroid
+average recall:   0.447
+Naive Bayes
+average recall:   0.474
+LinearSVC with L1-based feature selection
+average recall:   0.447
+All gender
+################################################################################
+Ridge Classifier
+average recall:   0.367
+Perceptron
+average recall:   0.350
+Passive-Aggressive
+average recall:   0.350
+L2 penalty LinearSVC
+average recall:   0.333
+L2 penalty SGDClassifier
+average recall:   0.383
+L1 penalty LinearSVC
+average recall:   0.300
+L1 penalty SGDClassifier
+average recall:   0.367
+Elastic-Net penalty SGDClassifier
+average recall:   0.333
+NearestCentroid
+average recall:   0.433
+Naive Bayes
+average recall:   0.467
+LinearSVC with L1-based feature selection
+average recall:   0.333
+feature type FAUs; time interval: 30
+Female
+################################################################################
+Ridge Classifier
+average recall:   0.227
+Perceptron
+average recall:   0.273
+Passive-Aggressive
+average recall:   0.273
+L2 penalty LinearSVC
+average recall:   0.318
+L2 penalty SGDClassifier
+average recall:   0.364
+L1 penalty LinearSVC
+average recall:   0.409
+L1 penalty SGDClassifier
+average recall:   0.455
+Elastic-Net penalty SGDClassifier
+average recall:   0.364
+NearestCentroid
+average recall:   0.455
+Naive Bayes
+average recall:   0.409
+LinearSVC with L1-based feature selection
+average recall:   0.364
+Male
+################################################################################
+Ridge Classifier
+average recall:   0.421
+Perceptron
+average recall:   0.421
+Passive-Aggressive
+average recall:   0.395
+L2 penalty LinearSVC
+average recall:   0.447
+L2 penalty SGDClassifier
+average recall:   0.395
+L1 penalty LinearSVC
+average recall:   0.421
+L1 penalty SGDClassifier
+average recall:   0.500
+Elastic-Net penalty SGDClassifier
+average recall:   0.447
+NearestCentroid
+average recall:   0.474
+Naive Bayes
+average recall:   0.500
+LinearSVC with L1-based feature selection
+average recall:   0.421
+All gender
+################################################################################
+Ridge Classifier
+average recall:   0.300
+Perceptron
+average recall:   0.317
+Passive-Aggressive
+average recall:   0.367
+L2 penalty LinearSVC
+average recall:   0.350
+L2 penalty SGDClassifier
+average recall:   0.317
+L1 penalty LinearSVC
+average recall:   0.333
+L1 penalty SGDClassifier
+average recall:   0.333
+Elastic-Net penalty SGDClassifier
+average recall:   0.350
+NearestCentroid
+average recall:   0.450
+Naive Bayes
+average recall:   0.467
+LinearSVC with L1-based feature selection
+average recall:   0.350
+feature type FAUs; time interval: 50
+Female
+################################################################################
+Ridge Classifier
+average recall:   0.182
+Perceptron
+average recall:   0.455
+Passive-Aggressive
+average recall:   0.318
+L2 penalty LinearSVC
+average recall:   0.318
+L2 penalty SGDClassifier
+average recall:   0.409
+L1 penalty LinearSVC
+average recall:   0.273
+L1 penalty SGDClassifier
+average recall:   0.318
+Elastic-Net penalty SGDClassifier
+average recall:   0.455
+NearestCentroid
+average recall:   0.409
+Naive Bayes
+average recall:   0.364
+LinearSVC with L1-based feature selection
+average recall:   0.318
+Male
+################################################################################
+Ridge Classifier
+average recall:   0.368
+Perceptron
+average recall:   0.500
+Passive-Aggressive
+average recall:   0.526
+L2 penalty LinearSVC
+average recall:   0.474
+L2 penalty SGDClassifier
+average recall:   0.447
+L1 penalty LinearSVC
+average recall:   0.500
+L1 penalty SGDClassifier
+average recall:   0.447
+Elastic-Net penalty SGDClassifier
+average recall:   0.474
+NearestCentroid
+average recall:   0.474
+Naive Bayes
+average recall:   0.421
+LinearSVC with L1-based feature selection
+average recall:   0.447
+All gender
+################################################################################
+Ridge Classifier
+average recall:   0.367
+Perceptron
+average recall:   0.350
+Passive-Aggressive
+average recall:   0.350
+L2 penalty LinearSVC
+average recall:   0.350
+L2 penalty SGDClassifier
+average recall:   0.383
+L1 penalty LinearSVC
+average recall:   0.367
+L1 penalty SGDClassifier
+average recall:   0.350
+Elastic-Net penalty SGDClassifier
+average recall:   0.367
+NearestCentroid
+average recall:   0.417
+Naive Bayes
+average recall:   0.467
+LinearSVC with L1-based feature selection
+average recall:   0.350
+feature type FAUs; time interval: 70
+Female
+################################################################################
+Ridge Classifier
+average recall:   0.182
+Perceptron
+average recall:   0.273
+Passive-Aggressive
+average recall:   0.273
+L2 penalty LinearSVC
+average recall:   0.273
+L2 penalty SGDClassifier
+average recall:   0.409
+L1 penalty LinearSVC
+average recall:   0.273
+L1 penalty SGDClassifier
+average recall:   0.409
+Elastic-Net penalty SGDClassifier
+average recall:   0.318
+NearestCentroid
+average recall:   0.409
+Naive Bayes
+average recall:   0.409
+LinearSVC with L1-based feature selection
+average recall:   0.364
+Male
+################################################################################
+Ridge Classifier
+average recall:   0.342
+Perceptron
+average recall:   0.395
+Passive-Aggressive
+average recall:   0.447
+L2 penalty LinearSVC
+average recall:   0.500
+L2 penalty SGDClassifier
+average recall:   0.474
+L1 penalty LinearSVC
+average recall:   0.421
+L1 penalty SGDClassifier
+average recall:   0.421
+Elastic-Net penalty SGDClassifier
+average recall:   0.474
+NearestCentroid
+average recall:   0.500
+Naive Bayes
+average recall:   0.447
+LinearSVC with L1-based feature selection
+average recall:   0.447
+All gender
+################################################################################
+Ridge Classifier
+average recall:   0.317
+Perceptron
+average recall:   0.383
+Passive-Aggressive
+average recall:   0.417
+L2 penalty LinearSVC
+average recall:   0.300
+L2 penalty SGDClassifier
+average recall:   0.367
+L1 penalty LinearSVC
+average recall:   0.383
+L1 penalty SGDClassifier
+average recall:   0.350
+Elastic-Net penalty SGDClassifier
+average recall:   0.367
+NearestCentroid
+average recall:   0.433
+Naive Bayes
+average recall:   0.450
+LinearSVC with L1-based feature selection
+average recall:   0.333
+feature type FAUs; time interval: 90
+Female
+################################################################################
+Ridge Classifier
+average recall:   0.227
+Perceptron
+average recall:   0.273
+Passive-Aggressive
+average recall:   0.318
+L2 penalty LinearSVC
+average recall:   0.318
+L2 penalty SGDClassifier
+average recall:   0.409
+L1 penalty LinearSVC
+average recall:   0.409
+L1 penalty SGDClassifier
+average recall:   0.455
+Elastic-Net penalty SGDClassifier
+average recall:   0.455
+NearestCentroid
+average recall:   0.409
+Naive Bayes
+average recall:   0.318
+LinearSVC with L1-based feature selection
+average recall:   0.364
+Male
+################################################################################
+Ridge Classifier
+average recall:   0.395
+Perceptron
+average recall:   0.447
+Passive-Aggressive
+average recall:   0.474
+L2 penalty LinearSVC
+average recall:   0.447
+L2 penalty SGDClassifier
+average recall:   0.447
+L1 penalty LinearSVC
+average recall:   0.368
+L1 penalty SGDClassifier
+average recall:   0.500
+Elastic-Net penalty SGDClassifier
+average recall:   0.447
+NearestCentroid
+average recall:   0.500
+Naive Bayes
+average recall:   0.474
+LinearSVC with L1-based feature selection
+average recall:   0.421
+All gender
+################################################################################
+Ridge Classifier
+average recall:   0.317
+Perceptron
+average recall:   0.383
+Passive-Aggressive
+average recall:   0.400
+L2 penalty LinearSVC
+average recall:   0.350
+L2 penalty SGDClassifier
+average recall:   0.350
+L1 penalty LinearSVC
+average recall:   0.350
+L1 penalty SGDClassifier
+average recall:   0.367
+Elastic-Net penalty SGDClassifier
+average recall:   0.350
+NearestCentroid
+average recall:   0.450
+Naive Bayes
+average recall:   0.467
+LinearSVC with L1-based feature selection
+average recall:   0.350
+feature type FAUs; time interval: 120
+Female
+################################################################################
+Ridge Classifier
+average recall:   0.318
+Perceptron
+average recall:   0.227
+Passive-Aggressive
+average recall:   0.318
+L2 penalty LinearSVC
+average recall:   0.364
+L2 penalty SGDClassifier
+average recall:   0.409
+L1 penalty LinearSVC
+average recall:   0.364
+L1 penalty SGDClassifier
+average recall:   0.409
+Elastic-Net penalty SGDClassifier
+average recall:   0.455
+NearestCentroid
+average recall:   0.455
+Naive Bayes
+average recall:   0.364
+LinearSVC with L1-based feature selection
+average recall:   0.364
+Male
+################################################################################
+Ridge Classifier
+average recall:   0.368
+Perceptron
+average recall:   0.474
+Passive-Aggressive
+average recall:   0.447
+L2 penalty LinearSVC
+average recall:   0.474
+L2 penalty SGDClassifier
+average recall:   0.421
+L1 penalty LinearSVC
+average recall:   0.447
+L1 penalty SGDClassifier
+average recall:   0.447
+Elastic-Net penalty SGDClassifier
+average recall:   0.421
+NearestCentroid
+average recall:   0.526
+Naive Bayes
+average recall:   0.447
+LinearSVC with L1-based feature selection
+average recall:   0.474
+All gender
+################################################################################
+Ridge Classifier
+average recall:   0.317
+Perceptron
+average recall:   0.317
+Passive-Aggressive
+average recall:   0.367
+L2 penalty LinearSVC
+average recall:   0.317
+L2 penalty SGDClassifier
+average recall:   0.350
+L1 penalty LinearSVC
+average recall:   0.367
+L1 penalty SGDClassifier
+average recall:   0.367
+Elastic-Net penalty SGDClassifier
+average recall:   0.333
+NearestCentroid
+average recall:   0.450
+Naive Bayes
+average recall:   0.450
+LinearSVC with L1-based feature selection
+average recall:   0.300
+feature type FAUs; time interval: 150
+Female
+################################################################################
+Ridge Classifier
+average recall:   0.364
+Perceptron
+average recall:   0.318
+Passive-Aggressive
+average recall:   0.318
+L2 penalty LinearSVC
+average recall:   0.318
+L2 penalty SGDClassifier
+average recall:   0.409
+L1 penalty LinearSVC
+average recall:   0.318
+L1 penalty SGDClassifier
+average recall:   0.455
+Elastic-Net penalty SGDClassifier
+average recall:   0.455
+NearestCentroid
+average recall:   0.409
+Naive Bayes
+average recall:   0.318
+LinearSVC with L1-based feature selection
+average recall:   0.409
+Male
+################################################################################
+Ridge Classifier
+average recall:   0.342
+Perceptron
+average recall:   0.447
+Passive-Aggressive
+average recall:   0.500
+L2 penalty LinearSVC
+average recall:   0.421
+L2 penalty SGDClassifier
+average recall:   0.447
+L1 penalty LinearSVC
+average recall:   0.447
+L1 penalty SGDClassifier
+average recall:   0.474
+Elastic-Net penalty SGDClassifier
+average recall:   0.421
+NearestCentroid
+average recall:   0.500
+Naive Bayes
+average recall:   0.474
+LinearSVC with L1-based feature selection
+average recall:   0.421
+All gender
+################################################################################
+Ridge Classifier
+average recall:   0.283
+Perceptron
+average recall:   0.317
+Passive-Aggressive
+average recall:   0.367
+L2 penalty LinearSVC
+average recall:   0.300
+L2 penalty SGDClassifier
+average recall:   0.383
+L1 penalty LinearSVC
+average recall:   0.383
+L1 penalty SGDClassifier
+average recall:   0.400
+Elastic-Net penalty SGDClassifier
+average recall:   0.350
+NearestCentroid
+average recall:   0.500
+Naive Bayes
+average recall:   0.467
+LinearSVC with L1-based feature selection
+average recall:   0.350
+feature type FAUs; time interval: 200
+Female
+################################################################################
+Ridge Classifier
+average recall:   0.364
+Perceptron
+average recall:   0.409
+Passive-Aggressive
+average recall:   0.318
+L2 penalty LinearSVC
+average recall:   0.364
+L2 penalty SGDClassifier
+average recall:   0.364
+L1 penalty LinearSVC
+average recall:   0.364
+L1 penalty SGDClassifier
+average recall:   0.455
+Elastic-Net penalty SGDClassifier
+average recall:   0.455
+NearestCentroid
+average recall:   0.409
+Naive Bayes
+average recall:   0.273
+LinearSVC with L1-based feature selection
+average recall:   0.318
+Male
+################################################################################
+Ridge Classifier
+average recall:   0.368
+Perceptron
+average recall:   0.474
+Passive-Aggressive
+average recall:   0.500
+L2 penalty LinearSVC
+average recall:   0.474
+L2 penalty SGDClassifier
+average recall:   0.474
+L1 penalty LinearSVC
+average recall:   0.395
+L1 penalty SGDClassifier
+average recall:   0.526
+Elastic-Net penalty SGDClassifier
+average recall:   0.500
+NearestCentroid
+average recall:   0.447
+Naive Bayes
+average recall:   0.474
+LinearSVC with L1-based feature selection
+average recall:   0.421
+All gender
+################################################################################
+Ridge Classifier
+average recall:   0.283
+Perceptron
+average recall:   0.350
+Passive-Aggressive
+average recall:   0.350
+L2 penalty LinearSVC
+average recall:   0.317
+L2 penalty SGDClassifier
+average recall:   0.383
+L1 penalty LinearSVC
+average recall:   0.350
+L1 penalty SGDClassifier
+average recall:   0.400
+Elastic-Net penalty SGDClassifier
+average recall:   0.333
+NearestCentroid
+average recall:   0.433
+Naive Bayes
+average recall:   0.467
+LinearSVC with L1-based feature selection
+average recall:   0.350
